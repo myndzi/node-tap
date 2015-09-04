@@ -51,6 +51,7 @@
     "lib/stack.js",
     "lib/synonyms.js",
     "lib/test.js",
+    "lib/babel-wrap.js",
     "bin/mochatap.js",
     "bin/run.js",
     "bin/usage.txt"
