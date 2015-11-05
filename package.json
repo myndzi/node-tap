@@ -11,6 +11,8 @@
     "node": ">=0.8"
   },
   "dependencies": {
+    "babel-core": "^6.1.2",
+    "babel-polyfill": "^6.0.16",
     "codecov.io": "^0.1.6",
     "coveralls": "^2.11.2",
     "deeper": "^2.1.0",
